@@ -1,11 +1,11 @@
 
-Project Title: 
-Hardware Shop Management System (Console-Based Application)
-Description:
+**Project Title: 
+Hardware Shop Management System (Console-Based Application)**<br>
+Description:<br>
 The Hardware Shop Management System is a console-based application developed using Core Java to streamline and simplify the management of hardware store operations. This project demonstrates the use of various Core Java concepts, including Object-Oriented Programming (OOP) principles, collections framework, exception handling, file handling, and user interaction through the console.
 
-
-Technologies and Concepts Used:
+<br>
+Technologies and Concepts Used:<br>
 Core Java: Classes, objects, inheritance, polymorphism, encapsulation, and abstraction.
 Collections Framework: ArrayList, HashMap, etc., for data management.
 Exception Handling: To handle invalid inputs and runtime errors gracefully.
